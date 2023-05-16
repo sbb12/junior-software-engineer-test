@@ -1,3 +1,5 @@
+This is a copy of the root readme
+
 # Amberside Energy Code Test
 
 This is my solution to the junior software engineer technical test
